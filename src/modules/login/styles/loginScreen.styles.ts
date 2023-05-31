@@ -29,10 +29,6 @@ export const ContainerLogin = styled.div`
   padding: 22px;
 `;
 
-export const LogoImage = styled.img`
-  width: 202px;
-`;
-
 export const TitleLogin = styled(Title)`
   color: #006397;
 `;
